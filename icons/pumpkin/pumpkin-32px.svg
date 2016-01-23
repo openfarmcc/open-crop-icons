@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Pumpkin Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Pumpkin-32x32" sketch:type="MSArtboardGroup">
+            <g id="Pumpkin-Copy" sketch:type="MSLayerGroup">
+                <path d="M15.0457841,12.1896159 C15.0457841,12.1896159 10.9422685,6.47379557 15.4396643,0 L19.2194495,2.58821615 C19.2194495,2.58821615 16.4292478,6.12483724 18.9967932,12.124349 C21.5643387,18.1238607 15.0457841,12.1896159 15.0457841,12.1896159 Z" id="Stem" fill="#8C6E3D" sketch:type="MSShapeGroup"></path>
+                <path d="M22.9167674,31.3656059 C20.1578883,31.3656059 21.3031603,26.7610865 21.3031603,21.01357 C21.3031603,15.2660535 23.5396737,10.6067708 26.2985528,10.6067708 C29.0574319,10.6067708 31.2939453,15.2660535 31.2939453,21.01357 C31.2939453,26.7610865 25.6756465,31.3656059 22.9167674,31.3656059 Z" id="Pumpkin-Slice" stroke="#BC7F19" fill="#F4A11A" sketch:type="MSShapeGroup"></path>
+                <path d="M8.99176121,31.3656059 C11.7506403,31.3656059 10.6053684,26.7610865 10.6053684,21.01357 C10.6053684,15.2660535 8.36885498,10.6067708 5.60997586,10.6067708 C2.85109675,10.6067708 0.614583333,15.2660535 0.614583333,21.01357 C0.614583333,26.7610865 6.2328821,31.3656059 8.99176121,31.3656059 Z" id="Pumpkin-Slice" stroke="#BC7F19" fill="#F4A11A" sketch:type="MSShapeGroup"></path>
+                <ellipse id="Pumpkin-Slice" stroke="#BC7F19" fill="#F3A11A" sketch:type="MSShapeGroup" cx="11.4801907" cy="20.1475423" rx="5.75238037" ry="11.2797038"></ellipse>
+                <ellipse id="Pumpkin-Slice" stroke="#BC7F19" fill="#F3A11A" sketch:type="MSShapeGroup" cx="20.4283379" cy="20.1475423" rx="5.75238037" ry="11.2797038"></ellipse>
+                <ellipse id="Pumpkin-Slice" stroke="#BC7F19" fill="#F4A11A" sketch:type="MSShapeGroup" cx="15.9542643" cy="19.713623" rx="5.113227" ry="11.713623"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

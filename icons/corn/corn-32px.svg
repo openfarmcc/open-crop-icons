@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="32px" viewBox="0 0 23 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Corn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Corn-32x32" sketch:type="MSArtboardGroup">
+            <g id="Corn" sketch:type="MSLayerGroup">
+                <ellipse fill="#DDCF27" sketch:type="MSShapeGroup" cx="11.3571429" cy="13.7142857" rx="6" ry="13.7142857"></ellipse>
+                <rect id="Corn-Piece" fill="#F3EDA3" sketch:type="MSShapeGroup" x="9.17224702" y="5.66983885" width="3.15122768" height="3.71065517" rx="2"></rect>
+                <rect id="Corn-Piece" fill="#F3EDA3" sketch:type="MSShapeGroup" x="11.2730655" y="1.95918367" width="3.15122768" height="3.71065517" rx="2"></rect>
+                <rect id="Corn-Piece" fill="#F3EDA3" sketch:type="MSShapeGroup" x="13.3738839" y="5.66983885" width="3.15122768" height="3.71065517" rx="2"></rect>
+                <rect id="Corn-Piece" fill="#F3EDA3" sketch:type="MSShapeGroup" x="9.17224702" y="9.38049402" width="3.15122768" height="3.71065517" rx="2"></rect>
+                <rect id="Corn-Piece" fill="#F3EDA3" sketch:type="MSShapeGroup" x="13.3738839" y="9.38049402" width="3.15122768" height="3.71065517" rx="2"></rect>
+                <rect id="Corn-Piece" fill="#F3EDA3" sketch:type="MSShapeGroup" x="9.17224702" y="13.0911492" width="3.15122768" height="3.71065517" rx="2"></rect>
+                <rect id="Corn-Piece" fill="#F3EDA3" sketch:type="MSShapeGroup" x="13.3738839" y="13.0911492" width="3.15122768" height="3.71065517" rx="2"></rect>
+                <rect id="Corn-Piece" fill="#F3EDA3" sketch:type="MSShapeGroup" x="9.17224702" y="16.8018044" width="3.15122768" height="3.71065517" rx="2"></rect>
+                <path d="M22.5,10.690843 L20.8441647,17.1271198 C20.8441647,17.1271198 21.2962186,23.7924975 20.1210938,26.407551 C18.9459689,29.0226045 17.706221,33.8443398 10.9945357,31.2623824 C10.9945357,31.2623824 5.51078419,26.8665736 11.8241807,18.349378 C18.1375772,9.83218241 22.5,10.690843 22.5,10.690843 Z" id="husk" fill="#779457" sketch:type="MSShapeGroup"></path>
+                <path d="M0.214285714,10.690843 L1.87012103,17.1271198 C1.87012103,17.1271198 1.41806711,23.7924975 2.59319196,26.407551 C3.76831682,29.0226045 5.00806468,33.8443398 11.7197501,31.2623824 C11.7197501,31.2623824 17.2035015,26.8665736 10.890105,18.349378 C4.57670847,9.83218241 0.214285714,10.690843 0.214285714,10.690843 Z" id="husk" fill="#A1C878" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -35,15 +35,18 @@ If you're not sure how to send a pull request, you can always drop a zip file in
 npm i github:openfarmcc/open-crop-icons
 ```
 
-### import as array
+### import all
 
 ```js
 import cropIcons from "open-crop-icons";
 
 const AllCrops = () => (
   <>
-    {cropIcons.map((src) => (
-      <img src={src} />
+    {Object.entries(cropIcons).map(([name, src]) => (
+      <figure>
+        <img src={src} alt={name} />
+        <figcaption>{name.split("_").join(" ")}</figcaption>
+      </figure>
     ))}
   </>
 );

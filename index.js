@@ -111,7 +111,7 @@ import indigo from "./icons/indigo/indigo.svg";
 import jalapeno from "./icons/jalapeno/jalapeno.svg";
 import japaneseYam from "./icons/japanese-yam/japanese-yam.svg";
 import kabochaSquash from "./icons/kabocha-squash/kabocha-squash.svg";
-import kholrabi from "./icons/kholrabi/kholrabi.svg";
+import kohlrabi from "./icons/kohlrabi/kohlrabi.svg";
 import laciantoKale from "./icons/lacianto-kale/lacianto-kale.svg";
 import lavender from "./icons/lavender/lavender.svg";
 import leek from "./icons/leek/leek.svg";
@@ -360,7 +360,7 @@ export {
   jalapeno,
   japaneseYam,
   kabochaSquash,
-  kholrabi,
+  kohlrabi,
   laciantoKale,
   lavender,
   leek,
@@ -610,7 +610,7 @@ const all = {
   jalapeno: jalapeno,
   japanese_yam: japaneseYam,
   kabocha_squash: kabochaSquash,
-  kholrabi: kholrabi,
+  kohlrabi: kohlrabi,
   lacianto_kale: laciantoKale,
   lavender: lavender,
   leek: leek,
